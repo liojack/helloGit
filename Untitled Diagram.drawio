@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T12:18:49.594Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="KdFQ96U3GGA205-xCcgA" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T13:31:31.000Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="3etyW2P-YwEp26MT6Oix" version="15.1.4" type="github">
   <diagram id="TH07ysKGJmiZBzvDwPMG" name="Page-1">
     <mxGraphModel dx="830" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,6 +123,9 @@
         </mxCell>
         <mxCell id="VL3w3KNL5hCD0TS1L97Q-43" value="service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="60" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VL3w3KNL5hCD0TS1L97Q-44" value="不使用推荐用户表 推荐用户的id 可能没有语音 另外开一个推荐语音表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="220" width="380" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
