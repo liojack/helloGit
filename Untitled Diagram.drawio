@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T12:16:29.553Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="odqdFW6MuZfgEisV_aeT" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T12:18:49.594Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="KdFQ96U3GGA205-xCcgA" version="15.1.4" type="github">
   <diagram id="TH07ysKGJmiZBzvDwPMG" name="Page-1">
     <mxGraphModel dx="830" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,8 +22,8 @@
         <mxCell id="VL3w3KNL5hCD0TS1L97Q-6" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="1">
           <mxGeometry x="140" y="100" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VL3w3KNL5hCD0TS1L97Q-7" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="VL3w3KNL5hCD0TS1L97Q-7" value="1.获取用户 Id&lt;br&gt;2.上传文件到 oss&lt;br&gt;3.获取 url&lt;br&gt;4.构建 pojo&amp;nbsp;&lt;br&gt;5.调用 api 存入 数据库&lt;br&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VL3w3KNL5hCD0TS1L97Q-8" value="controller" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="70" width="60" height="20" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry x="590" y="440" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VL3w3KNL5hCD0TS1L97Q-43" value="service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="80" width="50" height="20" as="geometry" />
+          <mxGeometry x="220" y="60" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
